@@ -34,7 +34,7 @@ class HelloWorld extends atoum
                     ->string($this->testedInstance->getHiAtoum())
                         // ... and that this string is the one we want,
                         // namely 'Hi atoum !'
-                        ->isEqualTo('Hi atoum !')
+                        ->isEqualTo('Hi atoum ')
         ;
     }
 }
