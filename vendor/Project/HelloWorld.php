@@ -8,7 +8,7 @@ class HelloWorld
     public function getHiAtoum ()
     
   {
-        return 'Hi atou !';
+        return 'Hi atoum !';
     
 
     }
